@@ -1,15 +1,8 @@
-# ECE/CS-5510 Homework 3 Part II Reference code (Fall 2024)
-
-## Contact
-
-Please use the Homework3 discussion forum on Canvas for any questions.
+# ECE/CS-5510 Homework 3 Part II Reference code (Fall 2026)
 
 ## Overview
 
-Please refer to the provided skeletal code and implement your solution to Part II of Homework 3. 
-Please submit the code along with a screenshot of the linearizability sequence visualization as part of the submission for Homework 3.
-**Submit your solution as a zip file on Canvas.** 
-
+Use the provided skeleton code and implement your solution to Part II of Homework 3. 
 You are free to modify any part of the provided source code.
 
 ## Dependencies
